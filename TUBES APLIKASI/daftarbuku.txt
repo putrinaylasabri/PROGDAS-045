@@ -1,0 +1,8 @@
+2 2011 2 Mitologi_Aztec Michael.A.Schuman Sejarah
+3 2023 1 The_Principles_Of_Power Dion_Yulianto Psikologi
+4 2015 4 Filsafat_Ilmu Prof.Dr.Ahmad_Tafsir Filsafat
+5 2016 5 Sebuah_Seni_Untuk_Bersikap_Bodo_Amat Mark_Manson Self-Development
+6 2016 6 Logika_Algoritma_dan_Pemrograman_Dasar Rosa_A.S Informatika
+7 2003 8 Longman:_Preparation_Course_for_the_TOEFL_Test Deborah_Philips Course
+8 2006 9 Robotika_Desain,Kontrol_dan_Kecerdasan_Buatan Endra_Pitowarno Teknologi
+1 1980 1 Kosmos Carl_Sagan Sains
